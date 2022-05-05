@@ -7,7 +7,7 @@
     <h3>
     Content Creator at
       <a href="https://capable-aspen-6c7.notion.site/RutTiger-Study-91d36eccd39b45dca40b8f2a9ae17ed1">
-        RutTiger Study 노션
+        RutTiger Study Notion
       </a>
     </h3>
   </em>  
