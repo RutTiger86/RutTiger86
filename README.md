@@ -6,8 +6,8 @@
   <em>
     <h3>
     Content Creator at
-      <a href="https://capable-aspen-6c7.notion.site/6d3fbff7330a43fb9bdf158604f752c4">
-        RutTiger연구소
+      <a href="https://capable-aspen-6c7.notion.site/RutTiger-Study-91d36eccd39b45dca40b8f2a9ae17ed1">
+        RutTiger Study 노션
       </a>
     </h3>
   </em>  
