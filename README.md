@@ -6,7 +6,7 @@
   <em>
     <h3>
     Content Creator at
-      <a href="https://capable-aspen-6c7.notion.site/cb6f8b583c0441e8a0a974197f3e7c42">
+      <a href="https://capable-aspen-6c7.notion.site/6d3fbff7330a43fb9bdf158604f752c4">
         RutTiger연구소
       </a>
     </h3>
